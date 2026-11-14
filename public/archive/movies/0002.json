@@ -5,8 +5,8 @@
   "seriesId": "movies",
   "number": 2,
   "title": {
-    "en": "Movie 2",
-    "ja": null
+    "en": " Doraemon: The Records of Nobita, Spaceblazer",
+    "ja": "ドラえもん のび太の宇宙開拓史"
   },
   "alternateTitles": [],
   "originalLanguage": "ja",
@@ -15,17 +15,220 @@
     "precision": "day",
     "region": "JP"
   },
-  "durationMinutes": null,
-  "director": null,
-  "summary": null,
-  "image": {
-    "url": null,
-    "alt": null
+  "durationMinutes": 91,
+  "director": {
+    "en": "Hideo Nishimaki",
+    "ja": "西巻 秀夫"
   },
-  "screenshots": [],
+  "summary": "Nobita and Doraemon discover a mysterious passage connecting Nobita's room to the distant planet Koya Koya, where they meet a young boy named Lopplc and his rabbit companion, Chammy. The two worlds have different gravitational forces, giving Nobita and his friends incredible strength on Koya Koya. However, the planet is being threatened by a powerful mining corporation determined to exploit its valuable resources. As Nobita, Doraemon, and their friends join forces with Lopplc to protect his home, they must face dangerous enemies and find a way to save the planet from destruction.",
+  "image": {
+    "url": "https://i.postimg.cc/9MkJBCf9/1981.webp",
+    "alt": "cover"
+  },
+  "screenshots": [
+    {
+      "url": "https://i.postimg.cc/Mpt87Pht/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/YCtHmKyq/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/J0jfGPNQ/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/ncJ86fZb/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/XvhmLTxC/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/bY1W0VnQ/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/W1YHpBRT/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/26hcw31Y/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/595KQYcS/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/rptQVzCt/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/J46qjjpb/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/wBKDk2LB/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/9MbTCjSD/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/wT7J8Zkt/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/SN39ydZ1/image.png",
+      "alt": null
+    },
+    {
+      "url": "https://i.postimg.cc/q7X6xTkz/image.png",
+      "alt": null
+    }
+  ],
   "characters": [],
   "gadgets": [],
-  "voiceActors": [],
-  "sources": [],
+  "voiceActors": [
+    {
+      "name": {
+        "en": "Nobuyo Oyama",
+        "ja": "大山 のぶ代"
+      },
+      "characterId": "char-doraemon",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Noriko Ohara",
+        "ja": "小原 乃梨子"
+      },
+      "characterId": "char-nobita",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Michiko Nomura",
+        "ja": "野村 道子"
+      },
+      "characterId": "char-shizuka",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Kazuya Tatekabe",
+        "ja": "立壁 和也"
+      },
+      "characterId": "char-gian",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Kaneta Kimotsuki",
+        "ja": "肝付 兼太"
+      },
+      "characterId": "char-suneo",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Masako Sugaya",
+        "ja": "菅谷 政子"
+      },
+      "characterId": "Roppuru",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Kazuko Sugiyama",
+        "ja": "渋川 佳寿子"
+      },
+      "characterId": "Chammy",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Mami Koyama",
+        "ja": "小山 茉美"
+      },
+      "characterId": "Clem",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Hidekatsu Shibata",
+        "ja": "柴田 秀勝"
+      },
+      "characterId": "Guillermin",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Sachiko Chijimatsu",
+        "ja": "千々松 幸子"
+      },
+      "characterId": "Tamako Nobi",
+      "language": "ja"
+    },
+    {
+      "name": {
+        "en": "Masayuki Kato",
+        "ja": "加藤 正之"
+      },
+      "characterId": "Nobisuke Nobi",
+      "language": "ja"
+    }
+  ],
+  "sources": [
+    {
+      "type": "direct",
+      "data": "<iframe src=\"https://megaplay.buzz/stream/s-2/58056/sub\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe>",
+      "label": "Anikoto",
+      "language": "ja",
+      "subtitles": {
+        "has": true,
+        "type": null,
+        "languages": [
+          "English"
+        ]
+      },
+      "quality": "HQ",
+      "notes": "WOWOW Remaster"
+    },
+    {
+      "type": "direct",
+      "data": "https://embed.settlar.io/embed/v1?t=2.stIhkDQDcbGb-KxucJkuA47xGmvlwqeKc-RYxzUJRwsQ-YFlO6GXPyLxqZjS9M44HIC_fylQ2quOnPzcnpAzYM3pAzJUsQyS4raMEioIzkAsow8ufiQCnfZKrfX_W9IX9-7pqjHJNj2OpuYfD7vlWk1BKz6Xd8Piw_JnZIEHlNX630MDgozjqu9Bx2SO43oM5IOVaXuulcf9UAdP_0nr7TauQV8tcxFjHpJpPkXowaE72pktRdMOln6DqG_qDqUNqCqw_BV0I3wqfbxhG4LWslrOsOXn_cNl-C0nnn6rMS6Pr1mgcvMGeDO87KRBIH4W4FJOzeHhEfJG1w#hl=en-US",
+      "label": "Ani.pm",
+      "language": "ja",
+      "subtitles": {
+        "has": true,
+        "type": null,
+        "languages": [
+          "English"
+        ]
+      },
+      "quality": "HQ",
+      "notes": "WOWOW Remaster"
+    },
+    {
+      "type": "direct",
+      "data": "https://vidnest.fun/anime/2662/1/SUB",
+      "label": "Vidnest",
+      "language": "ja",
+      "subtitles": {
+        "has": true,
+        "type": null,
+        "languages": [
+          "English"
+        ]
+      },
+      "quality": "HQ",
+      "notes": "WOWOW Remaster"
+    }
+  ],
   "updatedAt": "2026-11-02"
 }
